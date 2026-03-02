@@ -1,1 +1,246 @@
-{...}
+{
+  "id": "639d3b23-660f-4d9c-ac57-353d8ed318d2",
+  "createdAt": "2026-03-02T06:25:45.315Z",
+  "runtimeVersion": "3.0",
+  "launchAsset": {
+    "key": "index-28a17002eec68056fc53021ea3119662",
+    "url": "https://shrawan13-glitch.github.io/ota/_expo/static/js/android/index-28a17002eec68056fc53021ea3119662.hbc",
+    "contentType": "application/x-hermes-bytecode",
+    "fileExtension": "hbc"
+  },
+  "assets": [
+    {
+      "key": "6e435534bd35da5fef04168860a9b8fa",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/6e435534bd35da5fef04168860a9b8fa",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "778ffc9fe8773a878e9c30a6304784de",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/778ffc9fe8773a878e9c30a6304784de",
+      "contentType": "image/png"
+    },
+    {
+      "key": "c79c3606a1cf168006ad3979763c7e0c",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/c79c3606a1cf168006ad3979763c7e0c",
+      "contentType": "image/png"
+    },
+    {
+      "key": "02bc1fa7c0313217bde2d65ccbff40c9",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/02bc1fa7c0313217bde2d65ccbff40c9",
+      "contentType": "image/png"
+    },
+    {
+      "key": "35ba0eaec5a4f5ed12ca16fabeae451d",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/35ba0eaec5a4f5ed12ca16fabeae451d",
+      "contentType": "image/png"
+    },
+    {
+      "key": "0a328cd9c1afd0afe8e3b1ec5165b1b4",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/0a328cd9c1afd0afe8e3b1ec5165b1b4",
+      "contentType": "image/png"
+    },
+    {
+      "key": "3cd68ccdb8938e3711da2e8831b85493",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/3cd68ccdb8938e3711da2e8831b85493",
+      "contentType": "image/png"
+    },
+    {
+      "key": "61ca7e64b7d605716c57706cef640b9a",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/61ca7e64b7d605716c57706cef640b9a",
+      "contentType": "image/png"
+    },
+    {
+      "key": "aff2c65b39a296d4f7e96d0f58169170",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/aff2c65b39a296d4f7e96d0f58169170",
+      "contentType": "image/png"
+    },
+    {
+      "key": "d8e7601e3df962f83c62371ac14964d8",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/d8e7601e3df962f83c62371ac14964d8",
+      "contentType": "image/png"
+    },
+    {
+      "key": "0747a1317bbe9c6fc340b889ef8ab3ae",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/0747a1317bbe9c6fc340b889ef8ab3ae",
+      "contentType": "image/png"
+    },
+    {
+      "key": "d84e297c3b3e49a614248143d53e40ca",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/d84e297c3b3e49a614248143d53e40ca",
+      "contentType": "image/png"
+    },
+    {
+      "key": "1190ab078c57159f4245a328118fcd9a",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/1190ab078c57159f4245a328118fcd9a",
+      "contentType": "image/png"
+    },
+    {
+      "key": "78c625386b4d0690b421eb0fc78f7b9c",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/78c625386b4d0690b421eb0fc78f7b9c",
+      "contentType": "image/png"
+    },
+    {
+      "key": "4403c6117ec30c859bc95d70ce4a71d3",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/4403c6117ec30c859bc95d70ce4a71d3",
+      "contentType": "image/png"
+    },
+    {
+      "key": "069d99eb1fa6712c0b9034a58c6b57dd",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/069d99eb1fa6712c0b9034a58c6b57dd",
+      "contentType": "image/png"
+    },
+    {
+      "key": "c3273c9e5321f20d1e42c2efae2578c4",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/c3273c9e5321f20d1e42c2efae2578c4",
+      "contentType": "image/png"
+    },
+    {
+      "key": "286d67d3f74808a60a78d3ebf1a5fb57",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/286d67d3f74808a60a78d3ebf1a5fb57",
+      "contentType": "image/png"
+    },
+    {
+      "key": "3f78af31cca60105799838a1a7a59fbd",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/3f78af31cca60105799838a1a7a59fbd",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "31b5ffea3daddc69dd01a1f3d6cf63c5",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/31b5ffea3daddc69dd01a1f3d6cf63c5",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "140c53a7643ea949007aa9a282153849",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/140c53a7643ea949007aa9a282153849",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "ca4b48e04dc1ce10bfbddb262c8b835f",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/ca4b48e04dc1ce10bfbddb262c8b835f",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "b49ae8ab2dbccb02c4d11caaacf09eab",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/b49ae8ab2dbccb02c4d11caaacf09eab",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "b06871f281fee6b241d60582ae9369b9",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/b06871f281fee6b241d60582ae9369b9",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "1f77739ca9ff2188b539c36f30ffa2be",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/1f77739ca9ff2188b539c36f30ffa2be",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "605ed7926cf39a2ad5ec2d1f9d391d3d",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/605ed7926cf39a2ad5ec2d1f9d391d3d",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "3b89dd103490708d19a95adcae52210e",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/3b89dd103490708d19a95adcae52210e",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "370dd5af19f8364907b6e2c41f45dbbf",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/370dd5af19f8364907b6e2c41f45dbbf",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "adec7d6f310bc577f05e8fe06a5daccf",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/adec7d6f310bc577f05e8fe06a5daccf",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "56c8d80832e37783f12c05db7c8849e2",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/56c8d80832e37783f12c05db7c8849e2",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "e20945d7c929279ef7a6f1db184a4470",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/e20945d7c929279ef7a6f1db184a4470",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "b4eb097d35f44ed943676fd56f6bdc51",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/b4eb097d35f44ed943676fd56f6bdc51",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "4e85bc9ebe07e0340c9c4fc2f6c38908",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/4e85bc9ebe07e0340c9c4fc2f6c38908",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "871378c6eab492a3e689a9385dc45a12",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/871378c6eab492a3e689a9385dc45a12",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "d2285965fe34b05465047401b8595dd0",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/d2285965fe34b05465047401b8595dd0",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "1681f34aaca71b8dfb70756bca331eb2",
+      "fileExtension": "ttf",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/1681f34aaca71b8dfb70756bca331eb2",
+      "contentType": "font/ttf"
+    },
+    {
+      "key": "81ac387b580763c35bd519bd9cc46bbf",
+      "fileExtension": "png",
+      "url": "https://shrawan13-glitch.github.io/ota/assets/81ac387b580763c35bd519bd9cc46bbf",
+      "contentType": "image/png"
+    }
+  ],
+  "metadata": {
+    "platform": "android",
+    "channel": "production"
+  },
+  "extra": {
+    "expoClient": {
+      "name": "AuraMusic",
+      "slug": "auramusic",
+      "version": "3.0"
+    }
+  }
+}
