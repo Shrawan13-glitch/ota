@@ -1,11 +1,11 @@
 {
   "manifest": {
-    "id": "639d3b23-660f-4d9c-ac57-353d8ed318d2",
-    "createdAt": "2026-03-02T06:25:45.315Z",
+    "id": "4bc463ad-1b88-4fff-a678-165355d2a2cf",
+    "createdAt": "2026-03-02T19:05:37.774Z",
     "runtimeVersion": "3.0",
     "launchAsset": {
-      "key": "index-28a17002eec68056fc53021ea3119662",
-      "url": "https://shrawan13-glitch.github.io/ota/_expo/static/js/android/index-28a17002eec68056fc53021ea3119662.hbc",
+      "key": "index-c13b6a64b11cfbd5e60af8be24001489",
+      "url": "https://shrawan13-glitch.github.io/ota/_expo/static/js/android/index-c13b6a64b11cfbd5e60af8be24001489.hbc",
       "contentType": "application/x-hermes-bytecode",
       "fileExtension": "hbc"
     },
@@ -239,7 +239,7 @@
     },
     "extra": {
       "expoClient": {
-        "name": "AuraMusic",
+        "name": "Mediyo",
         "slug": "auramusic",
         "version": "3.0"
       }
